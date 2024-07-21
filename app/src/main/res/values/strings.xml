@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">trabajoerick</string>
+    <string name="hubo">que hubo</string>
+    <string name="crear">Crear cuenta</string>
+    <string name="nombre">ingrese su nombre</string>
+    <string name="apellido">ingrese su apellido</string>
+    <string name="correo">ingrese su correo</string>
+
 </resources>
